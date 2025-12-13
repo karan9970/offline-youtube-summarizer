@@ -1,5 +1,4 @@
 # Offline YouTube Video Summarizer
-
 A fully offline AI pipeline that:
 
 1. Downloads audio from a YouTube video  
